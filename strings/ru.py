@@ -2,7 +2,7 @@
 # Can be edited, but DON'T REMOVE THE REPLACEMENT FIELDS (words surrounded by {curly braces})
 
 # Currency symbol
-currency_symbol = "₽"
+currency_symbol = "$"
 
 # Positioning of the currency symbol
 currency_format_string = "{value} {symbol}"
@@ -53,10 +53,7 @@ csv_caption = "Файл 📄 .csv сгенерирован, и содержит 
 
 # Conversation: the start command was sent and the bot should welcome the user
 conversation_after_start = "Привет!\n" \
-                           "Добро пожаловать в greed!\n" \
-                           "Это 🅱️ <b>Бета</b> версия программы.\n" \
-                           "Программа полностью готова к использованию, но могут быть баги.\n" \
-                           "Если нашли баг - сообщите тут: https://github.com/Steffo99/greed/issues."
+                           "Добро пожаловать в магазин аккаунтов!"
 
 # Conversation: to send an inline keyboard you need to send a message with it
 conversation_open_user_menu = "Что бы Вы хотели сделать?\n" \
@@ -353,10 +350,7 @@ refund_reason = "Причина возврата:\n" \
                 "{reason}"
 
 # Info: informazioni sul bot
-bot_info = 'Этот бот использует <a href="https://github.com/Steffo99/greed">greed</a>,' \
-           ' фреймворк разработан @Steffo для платежей Телеграм и выпущен под лицензией' \
-           ' <a href="https://github.com/Steffo99/greed/blob/master/LICENSE.txt">' \
-           'Affero General Public License 3.0</a>.\n'
+bot_info = 'Тестовый бот на фреймворке <a href="https://github.com/Steffo99/greed">greed</a>'
 
 # Help: guide
 help_msg = "Инструкция к greed доступна по этому адресу:\n" \
