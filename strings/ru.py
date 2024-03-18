@@ -137,7 +137,7 @@ menu_add_credit = "💵 Пополнить кошелек"
 menu_bot_info = "ℹ️ Информация о боте"
 
 # User menu: cash
-menu_cash = "💵 Наличными"
+menu_cash = "💵 Другое"
 
 # User menu: credit card
 menu_credit_card = "💳 Кредитной картой"

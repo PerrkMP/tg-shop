@@ -143,7 +143,7 @@ menu_add_credit = "💵 增加资金"
 menu_bot_info = "ℹ️ 关于机器人"
 
 # User menu: cash
-menu_cash = "💵 用现金"
+menu_cash = "💵 其他"
 
 # User menu: credit card
 menu_credit_card = "💳 用信用卡"

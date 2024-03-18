@@ -141,7 +141,7 @@ menu_add_credit = "💵 Agregar fondos"
 menu_bot_info = "ℹ️ Información del bot"
 
 # User menu: cash
-menu_cash = "💵 Con efectivo"
+menu_cash = "💵 Otros"
 
 # User menu: credit card
 menu_credit_card = "💳 Con tarjeta"

@@ -138,7 +138,7 @@ menu_add_credit = "💵 טעינת כסף בחשבון"
 menu_bot_info = "ℹ ️מידע על הבוט"
 
 # User menu: cash
-menu_cash = "💵 במזומן"
+menu_cash = "💵 אחרים"
 
 # User menu: credit card
 menu_credit_card = "💳 בכרטיס אשראי"
