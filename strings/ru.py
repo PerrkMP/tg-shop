@@ -53,7 +53,7 @@ csv_caption = "Файл 📄 .csv сгенерирован, и содержит 
 
 # Conversation: the start command was sent and the bot should welcome the user
 conversation_after_start = "Привет!\n" \
-                           "Добро пожаловать в магазин аккаунтов!"
+                           "Добро пожаловать в магазин брендовой одежды Foxel Brand!"
 
 # Conversation: to send an inline keyboard you need to send a message with it
 conversation_open_user_menu = "Что бы Вы хотели сделать?\n" \
